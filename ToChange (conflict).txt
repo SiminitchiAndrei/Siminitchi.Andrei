@@ -1,2 +1,4 @@
+Hello world
+I am new user
 Buna
 sunt schimbari de alt utilizator
